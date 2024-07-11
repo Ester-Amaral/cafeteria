@@ -1,0 +1,23 @@
+.container, h1{
+    text-align: center;
+}
+label, th{
+    font-size: 20px;
+}
+tr.logo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 40px;
+}
+strong{
+    margin-left: 150px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 60px;
+}
+img{
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#logo{
+    border-bottom: 10px;
+}
